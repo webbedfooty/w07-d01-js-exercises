@@ -88,3 +88,4 @@ with an `onclick` event handler (defined inline in the HTML element).
 + Ask the user for some text, then replace all the vowels in that text with
   `'z'`. Bonus points if you can preserve capitalization as well.
 + Redo the Word Sorter exercise from above, but sort by word length.
++ Add some styling with Bootstrap (or equivalent).
